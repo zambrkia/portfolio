@@ -1,5 +1,0 @@
-# portfolio
-
-# home
-# bio
-# sites
